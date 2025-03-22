@@ -1,6 +1,6 @@
 # LuaProject 
 
-This project is inspired by the childhood game Motherload, but with a 3D twist. The goal of the game is to dig through the earth, collecting resources while avoiding various dangers. then beating the boss  
+This project is inspired by the childhood game Motherload, but with a 3D twist. The goal of the game is to dig through the earth, collecting valuable resources while avoiding various dangers and obstacles. As you progress, you can upgrade your player by purchasing better damage, armor, and other enhancements to improve your chances of survival. But don't forget to "tank" and prepare for the final battle, as you’ll eventually need to defeat the boss to complete your mission/win the game.  
 
 ## Menu Screen
 ![Alt Text](https://github.com/fortiks/LuaGameWithAlex/blob/master/luaScreen.png)
