@@ -9,4 +9,4 @@ This project is inspired by the childhood game Motherload, but with a 3D twist. 
 ![Alt Text](https://github.com/fortiks/LuaGameWithAlex/blob/master/LuaGame1.png)
 
 ## A Mole/ Enemy
-![Alt Text](https://github.com/fortiks/3D-metaballs/blob/master/Metaballs.png)
+![Alt Text](https://github.com/fortiks/LuaGameWithAlex/blob/master/LuaGame2.png)
