@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{21EB8090-0D4E-1035-B6D3-48EBA215DCB7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E9C7FDCE-D52A-8D73-7EB0-C5296AF258F6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="inc\thirdparty\entt.h" />
+    <ClInclude Include="inc\Components.hpp" />
+    <ClInclude Include="inc\Scene.hpp" />
+    <ClInclude Include="inc\System.hpp" />
+    <ClInclude Include="inc\thirdparty\raygui.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\Main.cpp" />
+    <ClCompile Include="src\Components.cpp" />
+    <ClCompile Include="src\Scene.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="src\Mole.lua" />
+    <None Include="src\Character.lua" />
+    <None Include="src\InitShops.lua" />
+    <None Include="src\InitScene.lua" />
+    <None Include="src\NewGame.lua" />
+    <None Include="src\BossRoom.lua" />
+    <None Include="src\LoadGame.lua" />
+    <None Include="src\Helpers.lua" />
+  </ItemGroup>
+</Project>

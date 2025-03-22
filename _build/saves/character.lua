@@ -1,0 +1,17 @@
+saves.character = {
+	currentWeight = 0,
+	bronzeCount = 0,
+	diamondCount = 0,
+	stoneCount = 0,
+	currentFuel = 90,
+	currentHealth = 24,
+	ancientRelicCount = 0,
+	maxWeight = 25,
+	silverCount = 0,
+	dirtCount = 0,
+	goldenCount = 0,
+	damage = 10000000,
+	maxFuel = 100,
+	gold = 1000210,
+	maxHealth = 100,
+}
