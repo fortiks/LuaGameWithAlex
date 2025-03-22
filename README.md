@@ -17,3 +17,4 @@ This project is inspired by the childhood game Motherload, but with a 3D twist. 
 - Map Reading: Improving the system to correctly read and generate only parts of the map as needed, instead of loading the entire map at once. This would help optimize performance
 - Texture Implementation: Adding textures to objects and terrain to make the visuals more realistic and immersive.
 - Animation: Implementing more advanced animation systems for player and object movements to bring the world to life.
+- Fix issues with button functionality
